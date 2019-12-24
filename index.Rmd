@@ -1,0 +1,30 @@
+---
+title: "Iris K-Means clustering"
+author: "Twan Houwers"
+date: "24-12-2019"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+This example presentation is build using R-markdown. 
+
+
+## Positive aspects
+- Creates visualy attractive slides with code
+- Ability to add code to presentation
+- Ability to run the code and show output/plots in the presentation
+
+## Slide with R Output
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+```{r pressure}
+plot(pressure)
+```
+

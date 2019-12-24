@@ -1,0 +1,12 @@
+name: IrisDataApp
+title: IrisDataApp
+username:
+account: twakawl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1617999
+bundleId: 2689700
+url: https://twakawl.shinyapps.io/IrisDataApp/
+when: 1577198026.49678
+asMultiple: FALSE
+asStatic: FALSE
